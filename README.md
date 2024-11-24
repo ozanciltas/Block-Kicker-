@@ -27,6 +27,11 @@
 
 Your goal is to survive by defeating approaching enemies and progressing through levels. Use strategic upgrade choices to overcome tougher foes and reach higher levels.
 
+## Technical Details  
+
+- **Game Engine:** Unity  
+- **Programming Language:** C#  
+
 ## Screenshots
 
 ![BossBattle](https://github.com/user-attachments/assets/4a90b9c5-9835-4f53-856f-c6c40e86141a)
