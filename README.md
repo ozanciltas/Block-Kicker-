@@ -2,6 +2,14 @@
 
 **Block Kicker** is an engaging arcade game where players aim to defeat incoming enemies and complete levels. Enhance your power with upgrades at every level!
 
+## Screenshots
+
+![BossBattle](https://github.com/user-attachments/assets/4a90b9c5-9835-4f53-856f-c6c40e86141a)
+
+![destroy all](https://github.com/user-attachments/assets/7d068d3f-e229-4129-936a-0078968a6837)
+
+---
+
 ## 🎮 Game Features
 
 - **Cannon:** The central cannon automatically targets and fires at the nearest enemy.  
@@ -32,11 +40,6 @@ Your goal is to survive by defeating approaching enemies and progressing through
 - **Game Engine:** Unity  
 - **Programming Language:** C#  
 
-## Screenshots
-
-![BossBattle](https://github.com/user-attachments/assets/4a90b9c5-9835-4f53-856f-c6c40e86141a)
-
-![destroy all](https://github.com/user-attachments/assets/7d068d3f-e229-4129-936a-0078968a6837)
 
 
 
