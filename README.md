@@ -1,35 +1,39 @@
 # Block Kicker
 
-**Block Kicker**, eğlenceli bir arcade oyunudur. Oyunda, oyuncuya doğru gelen düşmanları yok ederek seviyeleri tamamlamaya çalışıyorsunuz. Her seviyede seçtiğiniz geliştirmelerle gücünüzü artırabilirsiniz!
+**Block Kicker** is an engaging arcade game where players aim to defeat incoming enemies and complete levels. Enhance your power with upgrades at every level!
 
-## 🎮 Oyun Özellikleri
+## 🎮 Game Features
 
-- **Atıcı:** Oyunun merkezinde bulunan top atıcı, en yakın düşmana otomatik olarak ateş eder.
-- **Düşman Küpler:** Farklı renk ve boyutlarda düşmanlar oyuncuya doğru yaklaşır. Oyuncuya temas ettiklerinde oyunu kaybedersiniz.
-- **Bölüm Sonu Canavarı:** Belirli sayıda düşman yok edildiğinde bölüm sonu canavarı ile karşılaşırsınız.
-- **Geliştirmeler:** Her seviyede, oyununuzu güçlendirmek için 13 farklı geliştirmeden birini seçebilirsiniz:
-  
-  - Bounce Ball
-  - Add Cannon
-  - Destroy All
-  - Destroy Colour(Red,Blue,Green,Yellow)
-  - Diagonal Ball
-  - Double Ball
-  - Fire Ball
-  - Freeze Ball
-  - Helper Cannon
-  - Laser
-  - Orbit Ball
-  - Rage 
-  - Slow Ball
+- **Cannon:** The central cannon automatically targets and fires at the nearest enemy.  
+- **Enemy Blocks:** Various enemies of different colors and sizes approach the player. If they reach the player, the game is over.  
+- **Boss Fight:** After defeating a certain number of enemies, you’ll face a challenging boss.  
+- **Upgrades:** Choose from 13 unique upgrades at each level to strengthen your gameplay:  
 
-## 🌟 Amaç
+  - Bounce Ball  
+  - Add Cannon  
+  - Destroy All  
+  - Destroy Colour (Red, Blue, Green, Yellow)  
+  - Diagonal Ball  
+  - Double Ball  
+  - Fire Ball  
+  - Freeze Ball  
+  - Helper Cannon  
+  - Laser  
+  - Orbit Ball  
+  - Rage  
+  - Slow Ball  
 
-Oyuncunun amacı, yaklaşan düşmanları yok ederek hayatta kalmak ve bölümleri tamamlamaktır. Stratejik geliştirme seçimleriyle zorlu düşmanları alt ederek daha yüksek seviyelere ulaşabilirsiniz.
+## Objective
 
-## 🖼️ Ekran Görüntüleri
+Your goal is to survive by defeating approaching enemies and progressing through levels. Use strategic upgrade choices to overcome tougher foes and reach higher levels.
+
+## Screenshots
+
+![BossBattle](https://github.com/user-attachments/assets/4a90b9c5-9835-4f53-856f-c6c40e86141a)
+
+![destroy all](https://github.com/user-attachments/assets/7d068d3f-e229-4129-936a-0078968a6837)
+
 
 
 
 ---
-
